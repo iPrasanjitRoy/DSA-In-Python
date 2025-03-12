@@ -11,9 +11,7 @@ Hi there! I'm Prasanjit Roy, a passionate programmer and computer science enthus
 In this repository, you'll find:
 
 - Implementations of popular data structures such as arrays, linked lists, stacks, queues, trees, graphs, etc.
-- Efficient algorithms for sorting, searching, graph traversal, dynamic programming, etc.
-- 
-- 
+- Efficient algorithms for sorting, searching, graph traversal, dynamic programming, etc. 
 
 
 
