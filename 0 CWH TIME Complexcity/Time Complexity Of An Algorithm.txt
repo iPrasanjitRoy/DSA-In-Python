@@ -1,0 +1,46 @@
+🖥️ Asymptotic Notations Big Oh - Omega - Theta #1  By Abdul Bari : https://youtu.be/A03oI0znAoc?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O 
+
+🖥️ Time Complexity And Big O Notation By CodeWithHarry : https://youtu.be/vgSKOMsjLbc   
+🖥️ Asymptotic Notations: Big O, Big Omega And Big Theta Explained  By CodeWithHarry : https://youtu.be/1OTX-WXQHCQ  
+
+🖥️ Best Case, Worst Case And Average Case Analysis Of An Algorithm By CodeWithHarry :  https://youtu.be/5g7K86jYto8 
+🖥️ Calculate Time Complexity Of An Algorithm By CodeWithHarry : https://youtu.be/STL8ESuETmM 
+
+
+🖥️ Time And Space Complexity And Big O Notation By College Wallah : https://youtu.be/ptoPN1TCJ9Q  
+
+
+👉 L-2.1: What Is Recurrence Relation : https://youtu.be/NW-naslChdo 
+👉 L-2.2: Recurrence Relation [ T(n)= T(n/2) + c]  By Substitution Method By Gate Smashers  : https://youtu.be/x0n75VFd31U 
+👉 L-2.3: Recurrence Relation [ T(n)= n*T(n-1) ] By  Substitution Method  By Gate Smashers   : https://youtu.be/icS-e8RaCyo 
+👉 L-2.4: Recurrence Relation [ T(n)= 2T(n/2) +n] By  Substitution Method By Gate Smashers   : https://youtu.be/VHGisohk3Ck 
+
+👉 L-2.6: Recurrence Relation [ T(n)= 8T(n/2) + n^2 ] By Master Theorem By Gate Smashers    : https://youtu.be/FBKjvXGGCJM 
+👉 L-2.7: Recurrence Relation [ T(n)= T(n/2) +c] By  Master Theorem  By Gate Smashers   : https://youtu.be/nNabmfua14c 
+
+👉 L-2.9: Recurrence Relation [T(n)= 2T(n/2) +cn] By Recursive Tree Method By Gate Smashers    : https://youtu.be/bJg_sv7PV-g 
+
+
+
+𝞹 Sequence And Series By Dream Maths : https://www.youtube.com/playlist?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+
+✖️➗➕➖ Introduction To Sequence And Series : https://youtu.be/OlKmdGAmgNU?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+
+✖️➗➕➖ Introduction To A.P : https://youtu.be/rbTy8L_2iYc?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ Introduction To (A-D),A,(A+D) : https://youtu.be/RJsYuexVoZU?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ Introduction To Sum Of N Terms Of The A.P : https://youtu.be/r9--lK3lqIY?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ How To Insert Arithmetic Mean Between Two Numbers : https://youtu.be/4pYXMjjAa00?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+
+✖️➗➕➖ Introduction To G.P  :  https://youtu.be/QmMqYdFIygc?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ Introduction To Sum Of N Terms Of The G.P : https://youtu.be/ETSdy7eUftE?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ Introduction To Sum Of G.P. Upto Infinity : https://youtu.be/ISAbFl9kJiw?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+✖️➗➕➖ Introduction To Geometric Mean : https://youtu.be/vq_2OMYmpUY?list=PLEHGYFbPuuMFvIdAmExJonKlLZejCKbRm 
+
+
+
+𝞹 Logarithms  By Dream Maths : https://www.youtube.com/playlist?list=PLEHGYFbPuuMEw4KIYcsTzbdtxatgYZBOD 
+
+✖️➗➕➖ Introduction To Logarithms : https://youtu.be/ohaO2SU5-9M?list=PLEHGYFbPuuMEw4KIYcsTzbdtxatgYZBOD 
+✖️➗➕➖ Introduction To Properties Of Logarithms  : https://youtu.be/Nxr2nNX8uw0?list=PLEHGYFbPuuMEw4KIYcsTzbdtxatgYZBOD 
+✖️➗➕➖ Introduction To Characterstic And Mantissa : https://youtu.be/lM1LhNFWQFc?list=PLEHGYFbPuuMEw4KIYcsTzbdtxatgYZBOD  
+
